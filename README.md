@@ -14,7 +14,7 @@ The application is structured into several packages to maintain a modular and or
 - **handler**: Implements the business logic.
     - `contact_handler.go`: Contains the `FindDuplicates` function that identifies duplicate contacts.
 - **utils**: Provides utility functions.
-    - `file_csv.go`: Contains functions for reading and writing CSV files.
+    - `file_csv.go`: Contains functions for reading CSV files.
 - **logger**: Handles event logging.
     - `logger.go`: Logger configuration.
 
