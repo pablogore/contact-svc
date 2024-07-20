@@ -60,3 +60,8 @@ The project includes unit tests to ensure all key functionalities work correctly
 ## Example Output
 
 The output of the application will be similar to:
+ ```csv
+ContactID Source,ContactID Match,Accuracy
+1001,1002,High
+1001,1003,Low
+```
